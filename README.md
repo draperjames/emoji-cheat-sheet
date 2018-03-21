@@ -1,4 +1,4 @@
-# :sparkles: :heart: Emoji-Cheat-Sheet.com :heart: :sparkles:
+# :sparkles: :fire: :heart: :metal: :Emoji-Cheat-Sheet :metal: :heart: :fire: :sparkles:
 
 A one pager listing the different emoji emoticons supported on
 [Campfire](http://campfirenow.com/),
@@ -62,18 +62,6 @@ A one pager listing the different emoji emoticons supported on
 [Mattermost](http://www.mattermost.org/)
 and [Kanban Tool](http://kanbantool.com/).
 
-:point_right: Check them out at our home page: http://emoji-cheat-sheet.com.
-
-## Contributions wanted - help people in their search for emojis
-
-There is a feature in the cheat sheet that allows you to add synonyms (or alternative names) for each emoji. This is used when use the ”Instant Search” search field in the page top.
-
-You can see how this works in a snapshot of [public/index.html on line 154](https://github.com/arvida/emoji-cheat-sheet.com/blob/f8e4a0bf622f3b3dbbbc6a4bbfe2e7e33be6076d/public/index.html#L154). Look for `data-alternative-name` on that line.
-
-Currently there are very few synonyms in the cheat sheet and it would be great to add more to make it easier to search.
-
-Feel inspired? Do a pull request and add a synonym for your favourite emoji or maybe animal to one of the animals. :heart_eyes:
-
 ## Want to add emojis to your projects?
 
 * Ruby – [github.com/github/gemoji](https://github.com/github/gemoji), [github.com/jsw0528/rails_emoji](https://github.com/jsw0528/rails_emoji)
@@ -87,14 +75,5 @@ Feel inspired? Do a pull request and add a synonym for your favourite emoji or m
 * Python - [https://github.com/carpedm20/emoji](https://github.com/carpedm20/emoji)
 * Swift - [https://github.com/onmyway133/Smile](https://github.com/onmyway133/Smile)
 
-## Contributing
-
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request and enjoy! :D
-
 ### Contributors
-
-Check out all the super awesome contributors at [the contributors page](https://github.com/arvida/emoji-cheat-sheet.com/graphs/contributors). :sparkling_heart:
+[the contributors page](https://github.com/arvida/emoji-cheat-sheet.com/graphs/contributors)
